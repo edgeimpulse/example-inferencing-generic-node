@@ -1,8 +1,8 @@
-# Edge Impulse Inferencing on the Generic Node (TheThingsIndustry)
+# Edge Impulse inferencing on the Generic Node 
 
 ## Overview
 
-This repository contains the minimal example code for running an Edge Impulse designed models on the [Generic Node](https://www.genericnode.com/docs/)
+This repository contains the minimal example code for running an Edge Impulse designed models on the TheThingsIndustry's [Generic Node](https://www.genericnode.com/docs/) 
 
 ## Prerequisites
 
