@@ -6,11 +6,11 @@ This repository contains the minimal example code for running an Edge Impulse de
 
 ## Prerequisites
 
-**Edge Impulse:**
+* **Edge Impulse:**
 
 Make sure you followed the [Continuous motion recognition](https://docs.edgeimpulse.com/docs/continuous-motion-recognition) tutorial, and have a trained impulse.
 
-**Generic Node:**
+* **Generic Node:**
 
 Install the following software [STM32CubeIDE](https://www.st.com/en/development-tools/stm32cubeide.html) and import the [Generic Node Sensor Edition](https://www.genericnode.com/docs/getting-started/se-sw/) default projects with STM32CubeIDE.
 
@@ -79,7 +79,7 @@ float features[] = {
 
 Build your project and flash it as you would do normally.
 
-See the Generic Node Documentation for more info: [https://www.genericnode.com/docs/getting-started/se-sw/env-setup/stm32cubeide/](https://www.genericnode.com/docs/getting-started/se-sw/env-setup/stm32cubeide/)
+See the Generic Node documentation for more information: [https://www.genericnode.com/docs/getting-started/se-sw/env-setup/stm32cubeide/](https://www.genericnode.com/docs/getting-started/se-sw/env-setup/stm32cubeide/)
 
 Now open a Serial Monitor and you should see the following output with your custom parameters:
 
