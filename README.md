@@ -25,6 +25,11 @@ Head over to your Edge Impulse project, and go to **Deployment**. From here you 
 
 Download the `.zip` file, extract it and copy the two following folders, `model-parameters` and `tflite-model` to `example-inferencing-generic-node/Core`.
 
+> ℹ️ Public project
+> 
+> You can clone this public Edge Impulse Project to your account if you want to have the same parameters: [Edge Impulse project](https://studio.edgeimpulse.com/public/74846/latest)
+
+
 **Downloaded Edge Impulse C++ Library:**
 
 ```
@@ -97,7 +102,9 @@ run_classifier returned: 0
 Predictions (DSP: 61 ms., Classification: 2 ms., Anomaly: 0 ms.): 
     driving: 	 100%
     idle: 	 0%
-    unknown: 	 0%```
+    unknown: 	 0%
+
+```
 
 That's it! If you have any questions, please go to [https://forum.edgeimpulse.com](https://forum.edgeimpulse.com)
 
